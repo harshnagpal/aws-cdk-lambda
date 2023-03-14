@@ -1,1 +1,2 @@
 pytest==6.2.5
+#/opt/homebrew/Cellar/python@3.11/3.11.2_1/bin
